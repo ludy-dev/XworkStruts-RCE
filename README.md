@@ -6,4 +6,4 @@ Usage>
 
 Script based on Python2
 
-Not For attack. just using Vuln Test for your System
+Just using Vuln Test for your System
