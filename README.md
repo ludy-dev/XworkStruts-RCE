@@ -5,9 +5,9 @@ The Jakarta Multipart parser in Apache Struts 2 2.3.x before 2.3.32 and 2.5.x be
 
 Usage>
 
-    python Oracle WLS(Weblogic) RCE(CVE-2019-2725).py <dst_ip> <dst_port> (user defined port)
+    python XworkStruts RCE (CVE-2017-5638).py <dst_ip> <dst_port> (user defined port)
     
-    python Oracle WLS(Weblogic) RCE(CVE-2019-2725).py <dst_ip> (default : 80/tcp)
+    python XworkStruts RCE (CVE-2017-5638).py <dst_ip> (default : 80/tcp)
     
 Script based on Python2
 
