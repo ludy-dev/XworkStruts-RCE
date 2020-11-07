@@ -8,7 +8,8 @@ Usage>
     python XworkStruts RCE (CVE-2017-5638).py <dst_ip> <dst_port> (user defined port)
     
     python XworkStruts RCE (CVE-2017-5638).py <dst_ip> (default : 80/tcp)
-    
-Script based on Python2
+
+[updated!]
+Script was editted for Python3 
 
 Just using Vuln Test for your System
